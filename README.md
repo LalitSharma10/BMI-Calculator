@@ -1,0 +1,1 @@
+The BMI App is a simple yet powerful tool designed to help you manage your health and fitness goals. By calculating your Body Mass Index (BMI), the app provides valuable insights into your overall health, guiding you towards a healthier lifestyle.
